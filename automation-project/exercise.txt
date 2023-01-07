@@ -1,0 +1,4 @@
+1. List each company with respective product count
+2. List products with inventory less than 10
+3. List each company with respective total inventory validate_and_execute
+4. Write to spreasheet: Calculate and write inventory value for each product into spreadsheet

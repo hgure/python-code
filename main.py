@@ -1,6 +1,7 @@
 from helper import validate_and_execute, user_input_message
 #import helper as h ##to rename module name if too long
 
+import django 
 
 user_input = ""
 while user_input != "exit":
